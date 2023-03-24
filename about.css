@@ -1,0 +1,177 @@
+.background3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-snow);
+  width: 1920px;
+  height: 1080px;
+}
+.line-ondas-icon {
+  position: absolute;
+  bottom: 161.85px;
+  left: -147.47px;
+  width: 532.94px;
+  height: 28.3px;
+}
+.we-are-three {
+  position: absolute;
+  top: 540px;
+  left: 108px;
+  display: inline-block;
+  width: 720px;
+  height: 144px;
+}
+.about-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 858px;
+  height: 1073px;
+  object-fit: cover;
+}
+.baked-with-love {
+  margin: 0;
+  position: absolute;
+  top: 336.24px;
+  left: 100.92px;
+  font-size: 50px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 860.08px;
+  height: 165px;
+}
+.linhas-nav-bar3 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% + 24.18px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+}
+.about4 {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: right;
+  display: inline-block;
+}
+.about-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% - 463px);
+  width: 78px;
+  height: 34px;
+}
+.contacts3 {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+}
+.contacts-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% + 385.5px);
+  width: 121px;
+  height: 34px;
+}
+.reviews3 {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: center;
+  display: inline-block;
+}
+.factory-button3,
+.reviews-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% + 221.5px);
+  width: 99px;
+  height: 34px;
+}
+.factory-button3 {
+  left: calc(50% - 320.5px);
+}
+.grupo-7-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cart-button3,
+.logo-icon3 {
+  position: absolute;
+  cursor: pointer;
+}
+.cart-button3 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 38.32px);
+  right: 0.5px;
+  width: 48px;
+  height: 47px;
+}
+.logo-icon3 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 120px);
+  max-height: 100%;
+  width: 238.63px;
+}
+.nav-bar3 {
+  position: absolute;
+  top: 37px;
+  left: 98px;
+  width: 1725px;
+  height: 118.63px;
+}
+.about3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1073px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-open-sans);
+}

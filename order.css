@@ -1,0 +1,439 @@
+.background2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-snow);
+  width: 1920px;
+  height: 1080px;
+}
+.complete-your-order {
+  margin: 0;
+  position: absolute;
+  top: 322.93px;
+  left: 98px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 348px;
+  height: 49px;
+}
+.caminho-2-icon {
+  position: absolute;
+  top: 413.75px;
+  left: 1351.45px;
+  width: 0;
+  height: 0;
+}
+.order-img {
+  position: absolute;
+  right: 58px;
+  bottom: 134px;
+  width: 566px;
+  height: 754px;
+  object-fit: cover;
+}
+.retngulo-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  border: 2px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1080.6px;
+  height: 81.78px;
+}
+.phone-number {
+  position: absolute;
+  top: 29.25px;
+  left: 24.8px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 199.43px;
+  height: 25.28px;
+}
+.grupo-1348 {
+  position: absolute;
+  height: 14.78%;
+  width: 100%;
+  top: 21.3%;
+  right: 0;
+  bottom: 63.91%;
+  left: 0;
+}
+.credit-card-number {
+  position: absolute;
+  top: 28.05px;
+  left: 24.8px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 1031.99px;
+  height: 25.28px;
+}
+.grupo-1722,
+.grupo-1955 {
+  position: absolute;
+  height: 14.78%;
+  width: 100%;
+  top: 85.22%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.grupo-1955 {
+  top: 0;
+  bottom: 85.22%;
+}
+.adress {
+  position: absolute;
+  top: 29.05px;
+  left: 24.8px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 1031.99px;
+  height: 23.28px;
+}
+.grupo-1346,
+.retngulo-6 {
+  position: absolute;
+  height: 14.78%;
+  width: 100%;
+  top: 63.91%;
+  right: 0;
+  bottom: 21.3%;
+  left: 0;
+}
+.retngulo-6 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  border: 2px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.email {
+  position: absolute;
+  height: 29.69%;
+  width: 18.46%;
+  top: 37.04%;
+  left: 2.3%;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+}
+.grupo-1954 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 40.89px);
+  right: 0;
+  left: 0;
+  height: 81.78px;
+}
+.form-order {
+  position: absolute;
+  bottom: 134px;
+  left: 98px;
+  width: 1080.6px;
+  height: 553.17px;
+}
+.caminho-1-icon {
+  position: absolute;
+  top: 429.5px;
+  left: 1526.53px;
+  width: 0;
+  height: 0;
+}
+.div,
+.product,
+.product-name {
+  position: absolute;
+  display: inline-block;
+}
+.product-name {
+  top: 268px;
+  left: 1410.13px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-darkslategray-100);
+  text-align: center;
+  width: 338.73px;
+  height: 49.97px;
+}
+.div,
+.product {
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  width: 170.72px;
+  height: 32.41px;
+}
+.div {
+  left: 285.83px;
+  text-align: right;
+}
+.shipping {
+  top: 41.25px;
+  left: 0;
+}
+.b,
+.div1,
+.shipping,
+.total {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 170.72px;
+  height: 32.41px;
+}
+.div1 {
+  top: 41.25px;
+  left: 285.83px;
+  text-align: right;
+}
+.b,
+.total {
+  top: 97.22px;
+  left: 0;
+}
+.b {
+  left: 285.83px;
+  color: var(--color-darkslategray-100);
+  text-align: right;
+}
+.info-product-description,
+.linha-4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 455.55px;
+  height: 129.63px;
+}
+.linha-4 {
+  top: 85.65px;
+  left: -1.38px;
+  border-top: 2px solid rgba(66, 66, 64, 0.54);
+  box-sizing: border-box;
+  width: 456.3px;
+  height: 4px;
+  opacity: 0.5;
+}
+.caminho-1091-icon {
+  position: absolute;
+  top: 158.83px;
+  left: 453.92px;
+  width: 0;
+  height: 0;
+}
+.grupo-1338,
+.order-summary1 {
+  position: absolute;
+  top: 61.87px;
+  left: 0;
+  width: 455.55px;
+  height: 159.83px;
+}
+.order-summary1 {
+  top: 0;
+  left: 1.25px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: 311.79px;
+  height: 37.56px;
+}
+.order-summary {
+  position: absolute;
+  top: 664.45px;
+  left: 1351px;
+  width: 455.55px;
+  height: 221.7px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.retngulo-142 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #ab5266;
+  opacity: 0.6;
+}
+.order-now1 {
+  position: absolute;
+  height: calc(100% - 12px);
+  width: calc(100% - 97px);
+  top: 6px;
+  left: 49px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.button-order-now1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 97px;
+  bottom: 115px;
+  width: 286px;
+  height: 48px;
+}
+.linhas-nav-bar2 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% + 24.18px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+}
+.about2 {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: right;
+  display: inline-block;
+}
+.about-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% - 463px);
+  width: 78px;
+  height: 34px;
+}
+.contacts2 {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+}
+.contacts-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% + 385.5px);
+  width: 121px;
+  height: 34px;
+}
+.reviews2 {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: center;
+  display: inline-block;
+}
+.factory-button2,
+.reviews-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% + 221.5px);
+  width: 99px;
+  height: 34px;
+}
+.factory-button2 {
+  left: calc(50% - 320.5px);
+}
+.grupo-7-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cart-button2,
+.logo-icon2 {
+  position: absolute;
+  cursor: pointer;
+}
+.cart-button2 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 38.32px);
+  right: 0.5px;
+  width: 48px;
+  height: 47px;
+}
+.logo-icon2 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 120px);
+  max-height: 100%;
+  width: 238.63px;
+}
+.nav-bar2 {
+  position: absolute;
+  top: 37px;
+  left: 98px;
+  width: 1725px;
+  height: 118.63px;
+}
+.order {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-open-sans);
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./contacts.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cotta:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="contacts5">
+      <div class="background5"></div>
+      <img class="contact-text-icon" alt="" src="./public/contact-text.svg" />
+      <div class="the-bakery-street-container">
+        <p class="the-bakery-street">The Bakery Street, London UK</p>
+        <p class="thecakefactorymailcom">thecakefactory@mail.com</p>
+        <p class="thecakefactorymailcom">291 000 007</p>
+      </div>
+      <img
+        class="grupo-de-mscara-28"
+        alt=""
+        src="./public/Img - Contacts@2x.png"
+      />
+      <div class="nav-bar5">
+        <img
+          class="linhas-nav-bar5"
+          alt=""
+          src="./public/linhas-nav-bar.svg"
+        /><button class="about-button5" id="aboutButton">
+          <div class="about6">About</div></button
+        ><button class="contacts-button5" id="contactsButton">
+          <div class="contacts6">Contacts</div></button
+        ><button class="reviews-button5">
+          <div class="reviews5">Reviews</div></button
+        ><button class="factory-button5" id="factoryButton">
+          <div class="reviews5">Factory</div></button
+        ><button class="cart-button5" id="cartButton">
+          <img
+            class="grupo-7-icon5"
+            alt=""
+            src="./public/grupo-7.svg"
+          /></button
+        ><img
+          class="logo-icon5"
+          alt=""
+          src="./public/LOGO .svg"
+          id="lOGOImage"
+        />
+      </div>
+    </div>
+
+    <script>
+      var aboutButton = document.getElementById("aboutButton");
+      if (aboutButton) {
+        aboutButton.addEventListener("click", function (e) {
+          window.location.href = "./about.html";
+        });
+      }
+      
+      var contactsButton = document.getElementById("contactsButton");
+      if (contactsButton) {
+        contactsButton.addEventListener("click", function (e) {
+          window.location.href = "contacts.html";
+        });
+      }
+      
+      var factoryButton = document.getElementById("factoryButton");
+      if (factoryButton) {
+        factoryButton.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var cartButton = document.getElementById("cartButton");
+      if (cartButton) {
+        cartButton.addEventListener("click", function (e) {
+          window.location.href = "./order.html";
+        });
+      }
+      
+      var lOGOImage = document.getElementById("lOGOImage");
+      if (lOGOImage) {
+        lOGOImage.addEventListener("click", function (e) {
+          window.location.href = "./landing-page-3.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,477 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-snow);
+  width: 1920px;
+  height: 1080px;
+}
+.unio-2-icon {
+  position: absolute;
+  bottom: 92px;
+  left: 677px;
+  width: 566px;
+  height: 754px;
+}
+.cake-weight,
+.homemade-cakes-made {
+  position: absolute;
+  display: inline-block;
+}
+.homemade-cakes-made {
+  margin: 0;
+  top: 358px;
+  right: 70px;
+  font-size: 45px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--color-gray-300);
+  width: 460px;
+  height: 153px;
+}
+.cake-weight {
+  width: calc(100% + 1px);
+  top: calc(50% - 16.5px);
+  left: 0;
+}
+.grupo-1951 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 33px;
+}
+.linha-9 {
+  position: absolute;
+  width: calc(100% + 0.25px);
+  right: 0;
+  bottom: -1px;
+  left: -0.25px;
+  border-top: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 2px;
+}
+.grupo-1952 {
+  margin: 0;
+  position: absolute;
+  top: 727px;
+  right: 130.75px;
+  width: 399.25px;
+  height: 52.25px;
+  font-size: inherit;
+  font-family: inherit;
+}
+.ingredients-flavour2 {
+  margin: 0;
+}
+.ingredients-flavour1 {
+  position: absolute;
+  height: calc(100% - 16.5px);
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 262px;
+}
+.linha-7 {
+  position: absolute;
+  width: calc(100% + 1px);
+  right: 0;
+  bottom: -1px;
+  left: -1px;
+  border-top: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 2px;
+}
+.ingredients-flavour {
+  margin: 0;
+  position: absolute;
+  top: 270.5px;
+  left: 98px;
+  width: 398.5px;
+  height: 52.5px;
+  font-size: inherit;
+  font-family: inherit;
+}
+.chocolat,
+.lemon {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  height: 21px;
+}
+.chocolat {
+  right: 0;
+  width: 96px;
+}
+.lemon {
+  left: calc(50% - 47.5px);
+  width: 82px;
+}
+.surprise {
+  right: 3px;
+  bottom: 1px;
+  width: 93px;
+  height: 21px;
+}
+.iogurt,
+.orange,
+.surprise,
+.velvet {
+  cursor: pointer;
+  position: absolute;
+}
+.velvet {
+  bottom: 1px;
+  left: calc(50% - 47.5px);
+  width: 78px;
+  height: 21px;
+}
+.iogurt,
+.orange {
+  left: 0;
+  height: 22px;
+}
+.orange {
+  top: 0;
+  width: 84px;
+}
+.iogurt {
+  bottom: 0;
+  width: 78px;
+}
+.grupo-1950 {
+  position: absolute;
+  top: 353.5px;
+  left: 98px;
+  width: 395px;
+  height: 73px;
+}
+.decoration1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 201px;
+}
+.decoration {
+  margin: 0;
+  position: absolute;
+  top: 727px;
+  left: 98px;
+  width: 398.5px;
+  height: 52.25px;
+  font-size: inherit;
+  font-family: inherit;
+}
+.chocolat1,
+.fruits,
+.naked,
+.surprise1 {
+  cursor: pointer;
+  position: absolute;
+  top: 810px;
+  left: 397px;
+  width: 96px;
+  height: 21px;
+}
+.fruits,
+.naked,
+.surprise1 {
+  top: 809.5px;
+  left: 248px;
+  width: 79px;
+}
+.fruits,
+.surprise1 {
+  top: 860.5px;
+  left: 397px;
+  width: 93px;
+}
+.fruits {
+  left: 248px;
+  width: 74px;
+}
+.flowers {
+  top: 809.5px;
+  left: 98px;
+  width: 91px;
+  height: 22px;
+}
+.chantilli,
+.flowers,
+.kg {
+  cursor: pointer;
+  position: absolute;
+}
+.chantilli {
+  top: 860.5px;
+  left: 98px;
+  width: 92px;
+  height: 22px;
+}
+.kg {
+  top: 810px;
+  right: 150.88px;
+  width: 78px;
+}
+.kg,
+.kg1,
+.kg2 {
+  height: 21px;
+}
+.kg1 {
+  cursor: pointer;
+  position: absolute;
+  top: 810px;
+  right: 313.88px;
+  width: 64px;
+}
+.kg2 {
+  top: 861px;
+  right: 162.88px;
+  width: 66px;
+}
+.kg2,
+.kg3,
+.kg4,
+.ml {
+  cursor: pointer;
+  position: absolute;
+}
+.kg3 {
+  top: 861px;
+  right: 298.88px;
+  width: 79px;
+  height: 21px;
+}
+.kg4,
+.ml {
+  top: 810px;
+  left: 1392.13px;
+  width: 84px;
+  height: 22px;
+}
+.kg4 {
+  top: 861px;
+  width: 66px;
+}
+.filling-cream {
+  margin: 0;
+  position: absolute;
+  top: 524.5px;
+  left: 98px;
+  width: 399.25px;
+  height: 52.25px;
+  font-size: inherit;
+  font-family: inherit;
+}
+.chantilli1,
+.chocolat2,
+.nutella {
+  cursor: pointer;
+  position: absolute;
+  top: 607.5px;
+  left: 397px;
+  width: 96px;
+  height: 21px;
+}
+.chantilli1,
+.nutella {
+  left: 248px;
+  width: 92px;
+}
+.nutella {
+  left: 98px;
+  width: 91px;
+  height: 22px;
+}
+.fluffy-dough-creamy {
+  margin: 0;
+  position: absolute;
+  top: 521px;
+  right: 134px;
+  font-size: var(--font-size-11xl);
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 396px;
+  height: 90px;
+}
+.grupo-1949-icon {
+  position: absolute;
+  bottom: 25.54px;
+  left: 702.49px;
+  width: 515.02px;
+  height: 688.66px;
+  object-fit: cover;
+}
+.retngulo-14 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.order-now {
+  position: absolute;
+  height: calc(100% - 12px);
+  width: calc(100% - 27px);
+  top: 6px;
+  left: 14px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.button-order-now {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 97px;
+  bottom: 92px;
+  width: 286px;
+  height: 48px;
+}
+.about,
+.linhas-nav-bar {
+  position: absolute;
+  left: 0;
+}
+.linhas-nav-bar {
+  width: 100%;
+  top: calc(50% + 24.18px);
+  right: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+}
+.about {
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: right;
+  display: inline-block;
+}
+.about-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% - 463px);
+  width: 78px;
+  height: 34px;
+}
+.contacts {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+}
+.contacts-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% + 385.5px);
+  width: 121px;
+  height: 34px;
+}
+.reviews {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 17px);
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-300);
+  text-align: center;
+  display: inline-block;
+}
+.factory-button,
+.reviews-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 26.32px);
+  left: calc(50% + 221.5px);
+  width: 99px;
+  height: 34px;
+}
+.factory-button {
+  left: calc(50% - 320.5px);
+}
+.grupo-7-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cart-button,
+.logo-icon {
+  position: absolute;
+  cursor: pointer;
+}
+.cart-button {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 38.32px);
+  right: 0.5px;
+  width: 48px;
+  height: 47px;
+}
+.logo-icon {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 120px);
+  max-height: 100%;
+  width: 238.63px;
+}
+.nav-bar {
+  position: absolute;
+  top: 37px;
+  left: 98px;
+  width: 1725px;
+  height: 118.63px;
+}
+.factory {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-open-sans);
+}
